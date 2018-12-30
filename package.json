@@ -1,0 +1,23 @@
+{
+    "devDependencies": {
+        "@symfony/webpack-encore": "^0.22.0",
+        "affix": "^1.0.15",
+        "bootstrap": "^4.2.1",
+        "jquery": "^3.3.1",
+        "modernizr": "modernizr/modernizr",
+        "npm": "^6.5.0",
+        "webpack-notifier": "^1.6.0"
+    },
+    "license": "UNLICENSED",
+    "private": true,
+    "scripts": {
+        "dev-server": "encore dev-server",
+        "dev": "encore dev",
+        "watch": "encore dev --watch",
+        "build": "encore production --progress"
+    },
+    "dependencies": {
+        "modernizr-webpack-plugin": "^1.0.7",
+        "script-loader": "^0.7.2"
+    }
+}

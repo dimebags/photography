@@ -1,0 +1,111 @@
+{
+  "entrypoints": {
+    "css/light-box": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/light-box.css"
+      ]
+    },
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/app.js"
+      ],
+      "css": [
+        "/build/app.css"
+      ]
+    },
+    "js/plugins": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/plugins.js"
+      ]
+    },
+    "js/datepicker": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/datepicker.js"
+      ]
+    },
+    "js/vendor/bootstrap": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/vendor/bootstrap.js"
+      ]
+    },
+    "js/vendor/bootstrap.min": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/vendor/bootstrap.min.js"
+      ]
+    },
+    "js/vendor/jquery-1.11.2.min": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/vendor/jquery-1.11.2.min.js"
+      ]
+    },
+    "js/vendor/modernizr-2.8.3-respond-1.4.2.min": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"
+      ]
+    },
+    "js/main": {
+      "js": [
+        "/build/runtime.js",
+        "/build/js/main.js"
+      ]
+    },
+    "css/bootstrap": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/bootstrap.css"
+      ]
+    },
+    "css/bootstrap.min": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/bootstrap.min.css"
+      ]
+    },
+    "css/bootstrap-theme": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/bootstrap-theme.css"
+      ]
+    },
+    "css/bootstrap-theme.min": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/bootstrap-theme.min.css"
+      ]
+    },
+    "css/fontAwesome": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/fontAwesome.css"
+      ]
+    },
+    "css/templatemo-main": {
+      "js": [
+        "/build/runtime.js"
+      ],
+      "css": [
+        "/build/css/templatemo-main.css"
+      ]
+    }
+  }
+}
